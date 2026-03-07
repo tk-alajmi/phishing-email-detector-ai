@@ -1,0 +1,28 @@
+From: GitHub Notifications <noreply@github.com>
+To: developer@example.com
+Subject: [GitHub] Your pull request was merged
+
+Hi there,
+
+Your pull request #1234 in repository username/project-name has been successfully merged into the main branch.
+
+Pull Request Details:
+- Title: Fix bug in authentication module
+- Author: @username
+- Merged by: @maintainer
+- Branch: feature/auth-fix -> main
+
+You can view the merged changes here:
+https://github.com/username/project-name/pull/1234
+
+Repository: https://github.com/username/project-name
+
+Thank you for your contribution!
+
+Best regards,
+The GitHub Team
+
+---
+You're receiving this because you authored the thread.
+View it on GitHub: https://github.com/username/project-name/pull/1234
+Unsubscribe: https://github.com/notifications/unsubscribe-auth/EXAMPLE123
