@@ -1,0 +1,15 @@
+# Phishing Email Detector AI - Dependencies
+
+# Color output for terminal
+colorama>=0.4.6
+
+# Optional: For advanced NLP analysis (uncomment if needed)
+# anthropic>=0.18.0
+# openai>=1.0.0
+
+# Optional: For email parsing from .eml files
+# email-validator>=2.0.0
+
+# Optional: For enhanced URL analysis
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
