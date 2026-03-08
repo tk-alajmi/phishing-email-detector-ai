@@ -6,6 +6,8 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 
 **AI-powered phishing email detection tool with risk scoring and suspicious link analysis for cybersecurity professionals**
+<img width="947" height="502" alt="image" src="https://github.com/user-attachments/assets/31b95183-1186-4303-9028-62632bb01a29" />
+
 
 ---
 
