@@ -422,6 +422,14 @@ If you encounter issues or have questions:
 - [ ] Automated reporting
 
 ---
+## 📷 Preview
+
+<img width="1110" height="647" alt="image" src="https://github.com/user-attachments/assets/9424d22f-b8e0-4c74-8187-def11c039408" />
+
+<img width="841" height="463" alt="image" src="https://github.com/user-attachments/assets/ec2f724d-a8cc-4eee-8bbf-5d3b51887d1b" />
+
+
+
 
 <div align="center">
 
